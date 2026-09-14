@@ -1,0 +1,9 @@
+print("Hello World!")
+
+name = "James"
+
+print("Hello "+ name + "!")
+
+n = 3
+m = 4
+print(n+m)
